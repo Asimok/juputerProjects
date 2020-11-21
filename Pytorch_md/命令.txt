@@ -1,0 +1,9 @@
+下载
+
+scp -r root@39.96.68.13:/root/mq_blog/source/_posts /Users/maqi/Public/NLP_papers
+
+
+上传
+scp  /Users/maqi/Public/NLP_papers/_posts root@39.96.68.13:/root/mq_blog/source/_posts
+
+root@39.96.68.13:/root/mq_blog/source/_posts
